@@ -1,0 +1,260 @@
+[
+    {
+        "id": 1,
+        "name": "Actor in a Leading Role",
+        "nominees": [
+            "Javier Bardem - Being the Ricardos",
+            "Benedict Cumberbatch - The Power of the Dog",
+            "Andrew Garfield - tick, tick...BOOM!",
+            "Will Smith - King Richard",
+            "Denzel Washington - The Tragedy of Macbeth"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Actor in a Supporting Role",
+        "nominees": [
+            "Ciarán Hinds - Belfast",
+            "Troy Kotsur - CODA",
+            "Jesse Plemons - The Power of the Dog",
+            "J.K. Simmons - Being the Ricardos",
+            "Kodi Smit-McPhee - The Power of the Dog"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Actress in a Leading Role",
+        "nominees": [
+            "Jessica Chastain - The Eyes of Tammy Faye",
+            "Olivia Colman - The Lost Daughter",
+            "Penélope Cruz - Parallel Mothers",
+            "Nicole Kidman - Being the Ricardos",
+            "Kristen Stewart - Spencer"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Actress in a Supporting Role",
+        "nominees": [
+            "Jessie Buckley - The Lost Daughter",
+            "Ariana DeBose - West Side Story",
+            "Judi Dench - Belfast",
+            "Kirsten Dunst - The Power of the Dog",
+            "Aunjanue Ellis - King Richard"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Animated Feature Film",
+        "nominees": [
+            "Encanto - Jared Bush, Byron Howard, Yvett Merino and Clark Spencer",
+            "Flee - Jonas Poher Rasmussen, Monica Hellström, Signe Byrge Sørensen and Charlotte De La Gournerie",
+            "Luca - Enrico Casarosa and Andrea Warren",
+            "The Mitchells vs. the Machines - Mike Rianda, Phil Lord, Christopher Miller and Kurt Albrecht",
+            "Raya and the Last Dragon - Don Hall, Carlos López Estrada, Osnat Shurer and Peter Del Vecho"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Cinematography",
+        "nominees": [
+            "Dune - Greig Fraser",
+            "Nightmare Alley - Dan Laustsen",
+            "The Power of the Dog - Ari Wegner",
+            "The Tragedy of Macbeth - Bruno Delbonnel",
+            "West Side Story - Janusz Kaminski"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Costume Design",
+        "nominees": [
+            "Cruella - Jenny Beavan",
+            "Cyrano - Massimo Cantini Parrini and Jacqueline Durran",
+            "Dune - Jacqueline West and Robert Morgan",
+            "Nightmare Alley - Luis Sequeira",
+            "West Side Story - Paul Tazewell"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Directing",
+        "nominees": [
+            "Belfast - Kenneth Branagh",
+            "Drive My Car - Ryusuke Hamaguchi",
+            "Licorice Pizza - Paul Thomas Anderson",
+            "The Power of the Dog - Jane Campion",
+            "West Side Story - Steven Spielberg"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Documentary (Feature)",
+        "nominees": [
+            "Ascension - Jessica Kingdon, Kira Simon-Kennedy and Nathan Truesdell",
+            "Attica - Stanley Nelson and Traci A. Curry",
+            "Flee - Jonas Poher Rasmussen, Monica Hellström, Signe Byrge Sørensen and Charlotte De La Gournerie",
+            "Summer of Soul (...Or, When the Revolution Could Not Be Televised) - Ahmir \"Questlove\" Thompson, Joseph Patel, Robert Fyvolent and David Dinerstein",
+            "Writing with Fire - Rintu Thomas and Sushmit Ghosh"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Documentary (Short Subject)",
+        "nominees": [
+            "Audible - Matt Ogens and Geoff McLean",
+            "Lead Me Home - Pedro Kos and Jon Shenk",
+            "The Queen of Basketball - Ben Proudfoot",
+            "Three Songs for Benazir - Elizabeth Mirzaei and Gulistan Mirzaei",
+            "When We Were Bullies - Jay Rosenblatt"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Film Editing",
+        "nominees": [
+            "Don't Look Up - Hank Corwin",
+            "Dune - Joe Walker",
+            "King Richard - Pamela Martin",
+            "The Power of the Dog - Peter Sciberras",
+            "tick, tick...BOOM! - Myron Kerstein and Andrew Weisblum"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "International Feature Film",
+        "nominees": [
+            "Drive My Car - Japan",
+            "Flee - Denmark",
+            "The Hand of God - Italy",
+            "Lunana: A Yak in the Classroom - Bhutan",
+            "The Worst Person in the World - Norway"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Makeup and Hairstyling",
+        "nominees": [
+            "Coming 2 America - Mike Marino, Stacey Morris and Carla Farmer",
+            "Cruella - Nadia Stacey, Naomi Donne and Julia Vernon",
+            "Dune - Donald Mowat, Love Larson and Eva von Bahr",
+            "The Eyes of Tammy Faye - Linda Dowds, Stephanie Ingram and Justin Raleigh",
+            "House of Gucci - Göran Lundström, Anna Carin Lock and Frederic Aspiras"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Music (Original Score)",
+        "nominees": [
+            "Don't Look Up - Nicholas Britell",
+            "Dune - Hans Zimmer",
+            "Encanto - Germaine Franco",
+            "Parallel Mothers - Alberto Iglesias",
+            "The Power of the Dog - Jonny Greenwood"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Music (Original Song)",
+        "nominees": [
+            "Be Alive - from King Richard; Music and Lyric by DIXSON and Beyoncé Knowles-Carter",
+            "Dos Oruguitas - from Encanto; Music and Lyric by Lin-Manuel Miranda",
+            "Down To Joy - from Belfast; Music and Lyric by Van Morrison",
+            "No Time To Die - from No Time to Die; Music and Lyric by Billie Eilish and Finneas O'Connell",
+            "Somehow You Do - from Four Good Days; Music and Lyric by Diane Warren"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Best Picture",
+        "nominees": [
+            "Belfast - Laura Berwick, Kenneth Branagh, Becca Kovacik and Tamar Thomas, Producers",
+            "CODA - Philippe Rousselet, Fabrice Gianfermi and Patrick Wachsberger, Producers",
+            "Don't Look Up - Adam McKay and Kevin Messick, Producers",
+            "Drive My Car - Teruhisa Yamamoto, Producer",
+            "Dune - Mary Parent, Denis Villeneuve and Cale Boyter, Producers",
+            "King Richard - Tim White, Trevor White and Will Smith, Producers",
+            "Licorice Pizza - Sara Murphy, Adam Somner and Paul Thomas Anderson, Producers",
+            "Nightmare Alley - Guillermo del Toro, J. Miles Dale and Bradley Cooper, Producers",
+            "The Power of the Dog - Jane Campion, Tanya Seghatchian, Emile Sherman, Iain Canning and Roger Frappier, Producers",
+            "West Side Story - Steven Spielberg and Kristie Macosko Krieger, Producers"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Production Design",
+        "nominees": [
+            "Dune - Production Design: Patrice Vermette; Set Decoration: Zsuzsanna Sipos",
+            "Nightmare Alley - Production Design: Tamara Deverell; Set Decoration: Shane Vieau",
+            "The Power of the Dog - Production Design: Grant Major; Set Decoration: Amber Richards",
+            "The Tragedy of Macbeth - Production Design: Stefan Dechant; Set Decoration: Nancy Haigh",
+            "West Side Story - Production Design: Adam Stockhausen; Set Decoration: Rena DeAngelo"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Short Film (Animated)",
+        "nominees": [
+            "Affairs of the Art - Joanna Quinn and Les Mills",
+            "Bestia - Hugo Covarrubias and Tevo Díaz",
+            "Boxballet - Anton Dyakov",
+            "Robin Robin - Dan Ojari and Mikey Please",
+            "The Windshield Wiper - Alberto Mielgo and Leo Sanchez"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Short Film (Live Action)",
+        "nominees": [
+            "Ala Kachuu - Take and Run - Maria Brendle and Nadine Lüchinger",
+            "The Dress - Tadeusz Łysiak and Maciej Ślesicki",
+            "The Long Goodbye - Aneil Karia and Riz Ahmed",
+            "On My Mind - Martin Strange-Hansen and Kim Magnusson",
+            "Please Hold - K.D. Dávila and Levin Menekse"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Sound",
+        "nominees": [
+            "Belfast - Denise Yarde, Simon Chase, James Mather and Niv Adiri",
+            "Dune - Mac Ruth, Mark Mangini, Theo Green, Doug Hemphill and Ron Bartlett",
+            "No Time to Die - Simon Hayes, Oliver Tarney, James Harrison, Paul Massey and Mark Taylor",
+            "The Power of the Dog - Richard Flynn, Robert Mackenzie and Tara Webb",
+            "West Side Story - Tod A. Maitland, Gary Rydstrom, Brian Chumney, Andy Nelson and Shawn Murphy"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Visual Effects",
+        "nominees": [
+            "Dune - Paul Lambert, Tristan Myles, Brian Connor and Gerd Nefzer",
+            "Free Guy - Swen Gillberg, Bryan Grill, Nikos Kalaitzidis and Dan Sudick",
+            "No Time to Die - Charlie Noble, Joel Green, Jonathan Fawkner and Chris Corbould",
+            "Shang-Chi and the Legend of the Ten Rings - Christopher Townsend, Joe Farrell, Sean Noel Walker and Dan Oliver",
+            "Spider-Man: No Way Home - Kelly Port, Chris Waegner, Scott Edelstein and Dan Sudick"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Writing (Adapted Screenplay)",
+        "nominees": [
+            "CODA - Screenplay by Siân Heder",
+            "Drive My Car - Screenplay by Ryusuke Hamaguchi, Takamasa Oe",
+            "Dune - Screenplay by Jon Spaihts and Denis Villeneuve and Eric Roth",
+            "The Lost Daughter - Written by Maggie Gyllenhaal",
+            "The Power of the Dog - Written by Jane Campion"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Writing (Original Screenplay)",
+        "nominees": [
+            "Belfast - Written by Kenneth Branagh",
+            "Don't Look Up - Screenplay by Adam McKay; Story by Adam McKay & David Sirota",
+            "King Richard - Written by Zach Baylin",
+            "Licorice Pizza - Written by Paul Thomas Anderson",
+            "The Worst Person in the World - Written by Eskil Vogt, Joachim Trier"
+        ]
+    }
+]
